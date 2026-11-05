@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-case-management-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-case-management",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-case-management-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/case-management.md",
+  "presentationPlan": "projects/crm/nextjs/case-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
